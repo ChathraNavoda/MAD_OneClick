@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Foodie/app/src/main/res/drawable/background_white.xml" value="0.215625" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_chef.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_chef_edit_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_chef_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_chef_main_menu.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_chef_menu.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_chef_opening.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_chef_profile_management.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_chef_registration.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_choose_one.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_customer_home.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_customer_registration.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_delivery_person_registration.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_edit_gallery.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_food_gallery.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_main_menu.xml" value="0.19947916666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
